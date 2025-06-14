@@ -140,4 +140,27 @@ Found a useful workflow or created your own? Contributions welcome!
 
 ---
 
+More context from sources:
+
+Just leaked 110+ plug-and-play n8n templates that multiple industries are paying me $10K+ for.
+
+Your weekend project: Pick any industry, copy-paste a workflow, start printing money.
+
+The vault includes:
+- Real estate lead machines (sold to 2 companies)
+- Automotive inventory bots  
+- YouTube-to-TikTok content farms
+- E-commerce customer journey automations
+- SDR agents that close without you
+- Healthcare patient follow-ups
+- Legal document processors
+- Social media engagement bots
+
+From study agents (because fuck school) to manufacturing systems - every industry that prints money is covered.
+
+The difference: These aren't broken templates with outdated nodes. They're battle-tested, profitable, and actually work in 2025.
+
+Half sold for serious cash. Half are experiments that became goldmines. All are ready to deploy.
+
+
 *This automated documentation system makes it easy to discover, understand, and utilize the extensive collection of n8n workflows for your automation needs.*
